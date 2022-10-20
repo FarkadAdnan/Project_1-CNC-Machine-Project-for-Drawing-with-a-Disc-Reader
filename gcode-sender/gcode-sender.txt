@@ -1,0 +1,20 @@
+/*
+ By:Farkad Adnan
+ E-mail: farkad.hpfa95@gmail.com
+ inst : farkadadnan
+ #farkadadnan , #farkad_adnan , فرقد عدنان#
+ FaceBook: كتاب عالم الاردوينو
+ inst : arduinobook
+ #كتاب_عالم_الاردوينو  #كتاب_عالم_الآردوينو 
+ */
+
+
+
+ستجد في الرابط التالي ملف البرنامج ال G-Code 
+والذي يستخدم مع CNC
+
+https://chrome.google.com/webstore/detail/gcode-sender/ngncibnakmabjlfpadjagnbdjbhoelom/related
+
+
+موقع التالي لاستعراض ملفات جي كود اون لاين
+https://ncviewer.com/
